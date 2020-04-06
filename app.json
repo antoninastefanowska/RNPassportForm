@@ -32,6 +32,8 @@
         "READ_EXTERNAL_STORAGE",
         "READ_INTERNAL_STORAGE"
       ]
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/toniaa/RNPassportForm"
   }
 }
